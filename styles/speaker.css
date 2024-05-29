@@ -85,8 +85,9 @@ main {
 }
 /* the styles for the section */
 section {
+	text-align: center;
 	width: 525px;
-	float: right;
+	
 	padding: 0 20px 20px 20px;
 }
 section h1 {
